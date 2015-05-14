@@ -2,6 +2,8 @@
 @name $injector:unpr
 @fullName Unknown Provider
 @description
+@Error: [$injector:unpr] Unknown provider:  $modalProvider <-  $modal
+
 
 This error results from the `$injector` being unable to resolve a required
 dependency. To fix this, make sure the dependency is defined and spelled
